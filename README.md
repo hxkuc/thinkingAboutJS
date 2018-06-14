@@ -4,3 +4,4 @@
 
 - [关于Array.prototype.slice.call和Object.assign的思考](https://github.com/hxkuc/thinkingAboutJS/issues/1)
 - [electron的vuex插件制作时思考](https://github.com/hxkuc/thinkingAboutJS/issues/2)
+- [高阶函数的优点在哪里](https://github.com/hxkuc/thinkingAboutJS/issues/3)
